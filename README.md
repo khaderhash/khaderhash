@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Khader Hwijih and I'm a Software Engineering student and Flutter Developer</h2>
+<h2 align="left">Hi '! My name is Khader Hwijih and I'm a Software Engineering student and Flutter Developer</h2>
 
 ###
 
