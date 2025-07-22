@@ -56,10 +56,10 @@ I also know Dart, C++, C#, n8n, Docker, Python, AI, and Diagram Drawing.
 
 <br clear="both">
 
-<!-- Snake contribution graph animation -->
 <div align="center">
-  <img src="https://github.com/khaderhash/khaderhash/raw/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/khaderhash/khaderhash/raw/output/snake.gif" alt="Snake animation" />
 </div>
+
 
 ###
 
