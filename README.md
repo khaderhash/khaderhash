@@ -8,7 +8,7 @@ I also know Dart, C++, C#, n8n, Docker, Python, AI, and Diagram Drawing.
 ###
 
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/f8G3Sf79TykAAAAC/berserk.gif" />
+  <img height="350" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif" />
 </div>
 
 ###
