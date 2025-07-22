@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -17,7 +20,7 @@ jobs:
             ./output/snake.svg
             ./output/snake.gif
 
-      - name: Push changes
+      - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
