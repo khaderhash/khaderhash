@@ -3,7 +3,7 @@
 ###
 
 I have good knowledge in Laravel and can build projects with it.  
-I also know Dart, C++, C#, n8n, Docker, Python, AI, and Diagram Drawing.
+I also know Dart, C++, C#, n8n, Docker, Python, AI automation, and Diagram Drawing.
 
 ###
 
